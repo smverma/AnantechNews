@@ -1,0 +1,5 @@
+server:
+  servlet:
+    contextPath:/news-application/
+  port: 8020
+  
